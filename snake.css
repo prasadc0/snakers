@@ -1,0 +1,20 @@
+div{
+    text-align: right;
+padding-right: 10px;
+position: absolute;
+top: 7px;
+text-decoration: underline;
+right: 138px;
+color: coral;
+}
+
+ul{
+    text-align: left;
+padding-right: 10px;
+ position: relative;
+top: 7px;
+text-decoration: underline;
+left: 145px;
+color:#3dad19
+};
+ 
